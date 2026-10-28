@@ -1,5 +1,5 @@
 Demo:
-https://cs457-project4-rottenpotatoes.onrender.com/
+https://cs457-project4-rottenpotatoes.onrender.com
 
 Paste the URL for your deployed RottenPotatoes app below:
-
+https://cs457-project4-rottenpotatoes-i7q7.onrender.com
